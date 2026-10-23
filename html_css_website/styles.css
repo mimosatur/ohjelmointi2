@@ -1,4 +1,29 @@
 .header {
-    padding: 60px;
-    background-color: lightblue;
+    display: flex;
+    background-color: #E0BBE4;
+    gap: 20%;
+}
+
+
+.box {
+    width: auto;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+}
+
+.logo {
+    width: auto;
+    padding: 20px;
+    background-color: #957DAD;
+    border: 1xp #957DAD;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: #957DAD;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4em;
+    width: 100%;
+    margin-top: 200px;
 }
