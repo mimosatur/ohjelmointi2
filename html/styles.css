@@ -1,0 +1,37 @@
+/* Kommentti */
+body {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+h1 {
+    color: #F874B4;
+    font-size: 4em;
+    margin-top: 0;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #C16BA7
+}
+.korosta {
+    font-weight: bold;
+    font-style: italic;
+}
+.punainen {
+    color: rgb(113, 10, 113);
+}
+
+a {
+    color: rgb(18, 103, 18);
+}
+
+a:hover {
+    font-weight: none;
+}
+
+img {
+    width: 300px;
+    margin: 20px;
+}
+footer {
+    border-top: 2px solid rgb(170, 84, 250);
+    text-align: center;
+}
