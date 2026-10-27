@@ -3,44 +3,53 @@ html {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-nav {
+body {
+    display: flexbox;
+    margin: 0;
+    background-color: #FFDFD3;
+}
+
+header {
+    display: flex;
     background-color: #E0BBE4;
-    gap: 20%;
-    margin: auto;
-}
-
-.logo {
-    width: auto;
-    padding: 20px;
-    background-color: #957DAD;
-    border: 1xp #957DAD;
-}
-
-main {
-    background-color: #EEEEEE;
-
 }
 
 h1 {
-    background-color: #957DAD;
     width: auto;
-    text-align: start;
+    padding: 1rem;
+    color: #333;
+    background-color: #957DAD;
+    margin: 0;
+}
+
+.flex-container {
+    display: flex;
+    gap: 20%;
+    width: auto;
+    position: relative;
+    left: auto;
+}
+
+.box {
+    color: darkorchid;
+    padding: 1rem;
+    width: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #e888f3;
+    padding: 1rem;
 }
 
 h2 {
     text-align: center;
-    color: #957DAD;
+    margin-top: 20%;
 }
 
-.image {
-    width: 50%;
-    
-}
-
-p {
+.etusivu {
     text-align: center;
-}
-
-#map {
-    
 }
