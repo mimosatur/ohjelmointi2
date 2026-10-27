@@ -1,15 +1,12 @@
-.header {
-    display: flex;
-    background-color: #E0BBE4;
-    gap: 20%;
+
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-
-.box {
-    width: auto;
-    padding: 20px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    border: 1px solid black;
+nav {
+    background-color: #E0BBE4;
+    gap: 20%;
+    margin: auto;
 }
 
 .logo {
@@ -17,13 +14,33 @@
     padding: 20px;
     background-color: #957DAD;
     border: 1xp #957DAD;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main {
+    background-color: #EEEEEE;
+
 }
 
 h1 {
+    background-color: #957DAD;
+    width: auto;
+    text-align: start;
+}
+
+h2 {
+    text-align: center;
     color: #957DAD;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 4em;
-    width: 100%;
-    margin-top: 200px;
+}
+
+.image {
+    width: 50%;
+    
+}
+
+p {
+    text-align: center;
+}
+
+#map {
+    
 }
