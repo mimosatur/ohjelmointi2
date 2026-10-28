@@ -11,8 +11,11 @@ const number3 = parseInt(number3Str)
 
 const summa = number1 + number2 + number3
 const product = number1 * number2 * number3
-const average = summa / 2
+const average = summa / 3
+
 document.querySelector("#target1").innerHTML =
-    "Numeroiden summa on:" + summa;
-document.querySelector("#target").innerHTML =
-    "Numeroiden tulo on:" + product;
+    "Numeroiden summa on " + summa;
+document.querySelector("#target2").innerHTML =
+    "Numeroiden tulo on " + product;
+document.querySelector("#target3").innerHTML =
+    "Numeroiden keskiarvo on " + average;
