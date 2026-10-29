@@ -1,55 +1,121 @@
-
 html {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 body {
-    display: flexbox;
     margin: 0;
-    background-color: #FFDFD3;
+    background-color: #D8BAF6;
 }
 
-header {
+main {
+    padding-bottom: 20%;
+}
+
+.navbar {
     display: flex;
-    background-color: #E0BBE4;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #B289CB;
+
 }
 
-h1 {
-    width: auto;
-    padding: 1rem;
-    color: #333;
-    background-color: #957DAD;
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 25px;
     margin: 0;
 }
 
-.flex-container {
-    display: flex;
-    gap: 20%;
-    width: auto;
-    position: relative;
-    left: auto;
-}
-
-.box {
-    color: darkorchid;
-    padding: 1rem;
-    width: auto;
-}
-
-a {
+.nav-links a {
+    color: #221d2c;
     text-decoration: none;
+    padding: 15px;
 }
 
-a:hover {
-    background-color: #e888f3;
-    padding: 1rem;
+.nav-links a:hover {
+    background-color: #D8BAF6;
 }
 
-h2 {
+.logo {
+    font-weight: 800;
+    font-size: 20px;
+    padding: 1.5rem;
+    background-color: #884BB5;
+    color: #221d2c;
+}
+
+.logo2 {
+    padding-top: 20%;
+    padding-bottom: 2%;
     text-align: center;
-    margin-top: 20%;
+    color: #4c1f5f;
+    font-weight: 700;
+    font-size: 60px;
 }
 
-.etusivu {
+.esittely {
     text-align: center;
+    color: #221d2c;
+}
+
+.image1 {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.image2 {
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+.esittely2 {
+    text-align: center;
+    padding: 5px;
+    color: #221d2c;
+}
+
+.row {
+    display: flex;
+}
+
+.p2 {
+    font-weight: 600;
+    font-size: medium;
+}
+
+.column {
+    background-color: #bd81fa;
+    color: #221d2c;
+    margin: 2px;
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.tuot_nimi {
+    color: #4e4361;
+}
+
+.contact {
+    padding: 20px;
+    margin-left: 10px;
+    color: #221d2c;
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 5%;
+}
+
+.map {
+    width: 50%;
+}
+
+.p1 {
+    display: block;    
 }
