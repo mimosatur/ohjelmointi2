@@ -8,15 +8,13 @@ let sum = 0
 
 while (heitto < roll_number) {
     let roll = Math.floor(Math.random() * 6) + 1;
-    numbers.push(roll)
     console.log(roll)
+    numbers.push(roll)
     heitto++;
 }
 
 for (const number of numbers) {
     sum += number;
 }
-console.log(sum);
-
-// document.querySelector("#target").innerHTML =
-// roll;
+    document.querySelector("#target").innerHTML =
+    "Sum of the numbers is " + sum;
