@@ -4,7 +4,7 @@
 
 ### JS modules 1 and 2
 
-[My link to js mod 1 folder at users.metropolia.fi](https://users.metropolia.fi/~username/js1-folder)
+[My link to js mod 1 folder at users.metropolia.fi](https://users.metropolia.fi/~mimosat/javascript/mod01ja02/)
 
 Completed assignments:
 
@@ -17,3 +17,5 @@ Completed assignments:
 - Task 7: 2 p
 
 **Total 17p**
+
+[Linkki HTML + CSS nettisivuun](https://users.metropolia.fi/~mimosat/html_css_website/home_page.html)
