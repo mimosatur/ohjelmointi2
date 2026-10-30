@@ -65,7 +65,9 @@ main {
 }
 
 .image2 {
-    width: 50%;
+    width: 100%;
+    max-width: 668px;
+    height: auto;
     display: block;
     margin: auto;
 }
@@ -118,4 +120,9 @@ main {
 
 .p1 {
     display: block;    
+}
+
+.tuotekuva {
+    max-width: 431px;
+    height: auto;
 }
