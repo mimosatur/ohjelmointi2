@@ -6,6 +6,13 @@ while (names.length < 6) {
     names.push(dog)
 }
 
-console.log(names)
 names.sort()
 names.reverse()
+
+let html = "";
+for (let i=0; i < names.length; i++) {
+    html += "<li>" + names[i] + "</li>";
+}
+
+document.getElementById("names").innerHTML = 
+html;
