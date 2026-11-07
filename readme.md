@@ -19,3 +19,9 @@ Completed assignments:
 **Total 17p**
 
 [Linkki HTML + CSS nettisivuun](https://users.metropolia.fi/~mimosat/html_css_website/home_page.html)
+
+### JS module 3
+
+[Link to JavaScript module 3 folder](https://users.metropolia.fi/~mimosat/javascript/mod03/)
+
+###
