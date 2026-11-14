@@ -3,15 +3,15 @@
 const target = document.getElementById("target");
 
 const firstItem = document.createElement("li");
-firstItem.innerHTML = "First item";
+firstItem.textContent = "First item";
 target.appendChild(firstItem);
 
 const SecondItem = document.createElement("li");
-SecondItem.innerHTML = "Second item";
+SecondItem.textContent = "Second item";
 SecondItem.classList.add("my-item");
-document.getElementById("target").appendChild(SecondItem);
+target.appendChild(SecondItem);
 
 const ThirdItem = document.createElement("li");
-ThirdItem.innerHTML = "Third item";
-document.getElementById("target").appendChild(ThirdItem);
+ThirdItem.textContent = "Third item";
+target.appendChild(ThirdItem);
 
