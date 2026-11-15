@@ -23,13 +23,22 @@ Completed assignments:
 ### JS module 3
 
 Tein tehtävät:
-1, 2, 3, 4 ja 5
+- 1: 2p
+- 2: 2p 
+- 3: 2p 
+- 4: 2p 
+- 5: 2p
 
 [Link to JavaScript module 3 folder](https://users.metropolia.fi/~mimosat/javascript/mod03/)
 
 ### JS module 4
 
 Tein tehtävät:
-t1, t2, t3, t4 ja t7
+- t1: 2p
+- t2: 2p
+- t3: 2p
+- t4: 2p
+- t7: 2p
 
-[Link to JavaScript module 4 folder]
+[Link to JavaScript module 4 folder](https://users.metropolia.fi/~mimosat/module3-starters-main/)
+
