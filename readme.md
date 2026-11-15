@@ -22,6 +22,14 @@ Completed assignments:
 
 ### JS module 3
 
+Tein tehtävät:
+1, 2, 3, 4 ja 5
+
 [Link to JavaScript module 3 folder](https://users.metropolia.fi/~mimosat/javascript/mod03/)
 
-###
+### JS module 4
+
+Tein tehtävät:
+t1, t2, t3, t4 ja t7
+
+[Link to JavaScript module 4 folder]
