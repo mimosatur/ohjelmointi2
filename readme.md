@@ -42,3 +42,19 @@ Tein tehtävät:
 
 [Link to JavaScript module 4 folder](https://users.metropolia.fi/~mimosat/module3-starters-main/)
 
+### Python flask tehtävät
+
+Tein tehtävät:
+- 1: 2p 
+- 2: en saanut tätä toimimaan, onglma tiedostojen löytämisessä?
+
+[Linkki Python flask tehtäviin](https://users.metropolia.fi/~mimosat/javascript/)
+
+### JS module 5
+
+Tein tehtävät:
+- 1: 2p
+- 2: 3p
+- 3: 7p
+
+[Link to JavaScript module 5 folder](https://users.metropolia.fi/~mimosat/javascript/)
